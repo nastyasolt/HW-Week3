@@ -47,8 +47,9 @@ h3 {
 }
 .secondary-link {
   padding: 20px;
-  border: 1px solid var(--primary-color);
+  border: 1px solid var(--secondary-color);
   border-radius: 4px;
   text-decoration: none;
   text-transform: capitalize;
+  box-shadow: var(--box-shadow);
 }
